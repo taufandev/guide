@@ -8,13 +8,13 @@
         "nativeid": "ca-app-pub-8074230319419198/1928693951",
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
         "link_update": "https://www.google.com/",
-        "interval": 1,
+        "interval": 5,
         "pengaturan_iklan":"1",
-        "startappid":"12345678",
+        "startappid":"",
         "version_app":1,
         
-        "fan_inter":"981545408591412_999151030164183",
-        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_inter":"",
+        "fan_banner_native":"",
         "hpk":"Isi dengan iklan HPK pisahkan dengan koma (,) contoh asuransi, kesehatan, teknologi, dll",
 
         "hpk_admob1":"",
